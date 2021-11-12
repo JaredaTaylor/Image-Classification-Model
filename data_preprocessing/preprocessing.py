@@ -5,6 +5,7 @@ import numpy as np
 from dotenv import load_dotenv
 
 
+
 class PreProcessing:
   """
   Goes through all images, returns preprocessed tensor.
