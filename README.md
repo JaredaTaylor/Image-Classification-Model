@@ -1,4 +1,4 @@
 # Image-Classification-Models
 
 ## Model
-VGG-16
+InceptionV3 Model
