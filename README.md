@@ -1,4 +1,4 @@
-# Image-Classification-Models
+# Image-Classification-Model
 
 ## Model
 InceptionV3 Model, using transfer learning.
